@@ -1,0 +1,18 @@
+name: RoyaleAPI Clan Family
+key: royaleapi
+color: purple
+emblem: Sword_02
+info:
+  logo: https://ibb.co/dbHK8tG
+  description: >
+    Official clan family of PRIME ELITES eSports. We are the future!
+  social:
+    - twitter: https://twitter.com/PRIME_ELITES
+    - discord: hdiscord.gg/MaEchVx
+clans:
+  - name: RoyaleAPI PRIME ELITES
+    tag: #2GPGJ8P
+  - name: RoyaleAPI SWORN ELITES
+    tag: #YP890L8U
+  - name: RoyaleAPI ROGUE ELITES
+    tag: #Y09RCC9Q
